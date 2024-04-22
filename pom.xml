@@ -7,7 +7,7 @@
 	<artifactId>standard-project-parent-nodeps</artifactId>
 	<packaging>pom</packaging>
 	<name>standard-project-parent-nodeps</name>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<description>Benny's standard parent POM full of default sweetness and boilerplate code, but without the extra dependencies.</description>
 	<url>https://github.com/bbottema/standard-project-parent-nodeps</url>
 	<inceptionYear>2019</inceptionYear>
